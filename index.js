@@ -1,7 +1,6 @@
 /* eslint-disable */
 
 var NedbDatastore = require('nedb')
-var assert = require('assert')
 var thenify = require('./thenify')
 
 function fromInstance (nedbInstance) {
