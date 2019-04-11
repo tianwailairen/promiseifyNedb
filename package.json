@@ -1,6 +1,6 @@
 {
-  "name": "promiseifynedb",
-  "version": "1.0.1",
+  "name": "tb-promiseify-nedb",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
